@@ -33,5 +33,5 @@ In this I am use NOT NULL.
 ### Technologies Used
 
  --**MariaDB** : In this we easily store our database in relational format.
- --**Crud Operation** : In the mariadb wew use crud operation for creating , for read ,for update , for delete.
+ --**Crud Operation** : In the mariadb we use crud operation for creating , for read ,for update , for delete.
  --**Auto_Increment** : In this always a unique number automatically generated.
